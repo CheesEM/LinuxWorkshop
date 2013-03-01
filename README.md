@@ -1,6 +1,19 @@
-kostenlose Virtualisierungssoftware
-===================================
+VMWare Workstation
+==================
 
+Snapshots 
+---------
+* ermöglichen das Speichern des aktuellen Standes einer virtuellen Maschine
+* man kann zwischen Snapshots beliebig hin- und herspringen
+
+Netzwerkeinstellungen
+---------------------
+* NAT: VM tritt im Netzwerk "im Namen des Hostes" auf - Host sorgt dafür das die Netzwerkpakete richtig weiter geleitet werden
+* Bridged: VM ist "ganz normal im Netzwerk"
+* Host-Only: VM und Host kommunizieren direkt, und nicht über das echte Netzwerk
+
+kostenlose Alternativen
+-----------------------
 * VMWare Player: http://www.vmware.com/products/player/overview.html
 * VirtualBox: https://www.virtualbox.org/
 
