@@ -9,6 +9,16 @@ VMWare Player kann im Gegensatz zu VirtualBox keine Snapshots machen
 Ubuntu Installation
 ===================
 
+Sublime Text 2 Installation
+---------------------------
+
+```bash
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get install sublime-text
+```
+
+https://launchpad.net/~webupd8team/+archive/sublime-text-2
+
 MongoDB Installation
 --------------------
 
