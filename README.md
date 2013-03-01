@@ -9,6 +9,28 @@ VMWare Player kann im Gegensatz zu VirtualBox keine Snapshots machen
 Ubuntu Installation
 ===================
 
+Nützliche Links
+---------------
+* http://www.ubuntu.com/
+* http://wiki.ubuntuusers.de/Startseite
+* http://www.linuxforen.de/forums/index.php
+* https://launchpad.net
+
+Alternative Ubuntu-Derivate mit anderen Desktop Environments
+------------------------------------------------------------
+* http://www.kubuntu.org/ (KDE)
+* http://xubuntu.org/ (XFCE)
+* http://lubuntu.net/ (LXDE)
+* https://wiki.ubuntu.com/UbuntuGNOME/ReleaseNotes/12.10 (Gnome3)
+
+weitere unter https://wiki.ubuntu.com/DerivativeTeam/Derivatives
+
+Interessante Links
+------------------
+* http://distrowatch.com/
+* http://www.pro-linux.de/
+* http://www.linux-magazin.de/
+
 Sublime Text 2 Installation
 ---------------------------
 
